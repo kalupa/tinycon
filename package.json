@@ -1,0 +1,14 @@
+{
+  "name": "tinycon",
+  "description": "favicon notifications",
+  "version": "0.0.1",
+  "component": {
+    "scripts": {
+      "tinycon": "tinycon.js"
+    }
+    "repository" : {
+      "type": "git",
+      "url": "http://github.com/kalupa/tinycon.git"
+    }
+  }
+}
