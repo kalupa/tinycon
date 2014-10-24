@@ -5,10 +5,12 @@
   "component": {
     "scripts": {
       "tinycon": "tinycon.js"
-    }
+    },
     "repository" : {
       "type": "git",
-      "url": "http://github.com/kalupa/tinycon.git"
+      "url": "git://github.com/kalupa/tinycon.git"
     }
-  }
+  },
+  "author": "Paul Kalupnieks <paul@karrupa.com>",
+  "license": "BSD"
 }
